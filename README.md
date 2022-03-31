@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/miguellutz](https://troopl.com/miguellutz)
 
-- 📫 How to reach me **miguellutz31@gmail.com**
+- 📫 How to reach me: **miguellutz31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
