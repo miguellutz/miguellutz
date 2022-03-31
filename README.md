@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A passionate full stack developer from Cologne, Germany</h3>
 
-- 🔭 I’m currently working on [UkrAID](https://github.com/juliusappel/ukrAID)
+- 🔭 Currently working on [UkrAID](https://github.com/juliusappel/ukrAID)
 
-- 🌱 I’m currently learning **Ruby and JavaScript**
+- 🌱 I’m learning **Ruby and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/miguellutz](https://troopl.com/miguellutz)
 
