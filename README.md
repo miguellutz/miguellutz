@@ -3,6 +3,7 @@
 
 Creative, motivated and curious creator, eager to learn and grow in a role as a Full Stack Developer. Just finished a web-development coding bootcamp at Le Wagon and wish to apply and develop my programming skills and business expertise in an aspiring tech firm.
 
+
 - 🔭 I’m currently working on [UkrAID](https://github.com/juliusappel/ukrAID)
 
 - 🌱 I’m learning **Ruby and JavaScript**
