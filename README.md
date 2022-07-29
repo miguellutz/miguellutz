@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A passionate Full Stack Developer from Cologne, Germany</h3>
 
-Creative, motivated and curious creator, eager to learn and grow in a role as a Full Stack Developer. Just finished a web-development coding bootcamp at Le Wagon and wish to apply and develop my programming skills and business expertise in an aspiring tech firm.
+Creative, motivated and curious creator, learning and growing in a role as Frontend Developer @Accenture. Just finished a web-development coding bootcamp at Le Wagon and am now keen to apply and develop my programming skills and business expertise.
 
 
 - 🔭 I’m currently working on [UkrAID](https://github.com/juliusappel/ukrAID)
 
-- 🌱 I’m learning **Ruby and JavaScript**
+- 🌱 I’m learning **React**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/miguellutz](https://troopl.com/miguellutz)
 
