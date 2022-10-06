@@ -8,8 +8,6 @@ Creative, motivated and curious creator, learning and growing in a role as Front
 
 - 🌱 I’m learning **React**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/miguellutz](https://troopl.com/miguellutz)
-
 - 📫 Reach me through my email: **miguellutz31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
