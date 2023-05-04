@@ -4,9 +4,9 @@
 Creative, motivated and curious creator, learning and growing in a role as Frontend Developer @Accenture. Just finished a web-development coding bootcamp at Le Wagon and am now keen to apply and develop my programming skills and business expertise.
 
 
-- 🔭 I’m currently working on [UkrAID](https://github.com/juliusappel/ukrAID)
+- 🔭 I’m currently working on large-scale databases @Obi
 
-- 🌱 I’m learning **React**
+- 🌱 I’m learning **React**, **Java** and **Kotlin**
 
 - 📫 Reach me through my email: **miguellutz31@gmail.com**
 
