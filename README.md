@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A passionate Full Stack Developer from Cologne, Germany</h3>
 
-Creative, motivated and passionately curious creator. Currently learning and growing in a role as Fullstack Developer @Obi Next. I previously studied business administration at the University of Cologne and got into tech through a WebDev Bootcamp at Le Wagon. I am really excited to apply and develop my programming skills and business expertise in professional and personal projects 🚀
+I am a creative, motivated and passionately curious creator, currently learning and growing in a role as Fullstack Developer @Obi Next. I previously studied business administration at the University of Cologne and got into tech through a WebDev Bootcamp at Le Wagon. I am really excited to apply and develop my programming skills and business expertise at a variety of professional and personal projects 🚀
 
 - 🔭 I’m currently working on large-scale databases @Obi
 
