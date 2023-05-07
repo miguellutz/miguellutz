@@ -3,11 +3,11 @@
 
 I am a creative, motivated and passionately curious creator, currently working in a role as Fullstack Developer @Obi Next. I previously studied business administration at the University of Cologne and got into tech through a web development Bootcamp at Le Wagon. I am really excited to apply and develop my programming skills and business expertise at a variety of professional and personal projects 🚀
 
-- 🔭 I’m currently working on [large scale databases](@Obi Next)
+- 🔭 I’m currently working on large scale databases @Obi Next
 
 - 🌱 I’m currently learning **Java, Kotlin and React**
 
-- 📫 How to reach me **miguellutz31@gmail.com**
+- 📫 Reach me via email: **miguellutz31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
